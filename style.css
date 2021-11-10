@@ -52,9 +52,11 @@ li{
 }
 
 .signout{
-    margin: 20px;
+    margin: 20px 0px 30px 100px;
     font-size: 12px !important;
     cursor: pointer;
+    color: #FFFFFF;
+
 }
 
 .text{
@@ -66,7 +68,7 @@ li{
 }
 
 .search-bar{
-    width: 22%;
+    width: 25%;
     height: 5vh;
     background: rgba(196, 196, 196, 0.11);
     border: 1px solid #E5E5E5;
@@ -82,7 +84,7 @@ li{
     box-sizing: border-box;
     border-radius: 10px;
     height: 5vh;
-    width: 232px;
+    width: 100%;
     padding: 20px;
    
 
@@ -101,7 +103,7 @@ li{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    width: 25%;
+    width: 30%;
 }
 
 .user-pro{
@@ -199,8 +201,7 @@ footer{
 }
 
 .Rectangle_18111{
-  
-    
+    max-width: 100%;
     background: #FFFFFF;
     border-radius: 20px;
     padding: 15px;
